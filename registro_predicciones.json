@@ -2152,9 +2152,9 @@
       "btts": 44.2,
       "confianza": "Muy Alta",
       "confianza_pct": 88.5,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "2",
+      "goles_local": 0,
+      "goles_visitante": 2
     },
     {
       "id": "SA|2026-10-31|Udinese Calcio|AS Roma",
@@ -2495,9 +2495,9 @@
       "btts": 38.3,
       "confianza": "Media",
       "confianza_pct": 57.9,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "2",
+      "goles_local": 2,
+      "goles_visitante": 6
     },
     {
       "id": "SA|2026-10-27|AS Roma|Cagliari Calcio",
@@ -2544,9 +2544,9 @@
       "btts": 45.2,
       "confianza": "Media",
       "confianza_pct": 59.9,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 4,
+      "goles_visitante": 2
     },
     {
       "id": "SA|2026-11-01|Como 1907|Venezia FC",
@@ -2789,6 +2789,153 @@
       "btts": 38.4,
       "confianza": "Baja",
       "confianza_pct": 52.0,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "SA|2026-10-31|Bologna FC 1909|AC Monza",
+      "liga": "SA",
+      "fecha": "2026-10-31",
+      "hora": "14:00",
+      "local": "Bologna FC 1909",
+      "visitante": "AC Monza",
+      "generada_utc": "2026-10-30T05:21:55.612945+00:00",
+      "fuerza_local": 52.1,
+      "fuerza_visitante": 39.6,
+      "xg_local": 1.392,
+      "xg_visitante": 0.816,
+      "p1": 50.5,
+      "px": 27.5,
+      "p2": 22.0,
+      "resultado_pred": "1",
+      "marcador_top": "1-0",
+      "marcador_prob": 15.3,
+      "marcador_absoluto": "1-0",
+      "top5": [
+        [
+          "1-0",
+          15.3
+        ],
+        [
+          "1-1",
+          12.5
+        ],
+        [
+          "0-0",
+          11.0
+        ],
+        [
+          "2-0",
+          10.7
+        ],
+        [
+          "0-1",
+          9.0
+        ]
+      ],
+      "over25": 37.9,
+      "btts": 41.9,
+      "confianza": "Baja",
+      "confianza_pct": 50.5,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "SA|2026-10-31|AC Milan|FC Internazionale Milano",
+      "liga": "SA",
+      "fecha": "2026-10-31",
+      "hora": "19:45",
+      "local": "AC Milan",
+      "visitante": "FC Internazionale Milano",
+      "generada_utc": "2026-10-30T05:21:55.612945+00:00",
+      "fuerza_local": 62.9,
+      "fuerza_visitante": 80.7,
+      "xg_local": 0.995,
+      "xg_visitante": 1.71,
+      "p1": 21.9,
+      "px": 23.9,
+      "p2": 54.2,
+      "resultado_pred": "2",
+      "marcador_top": "0-1",
+      "marcador_prob": 11.4,
+      "marcador_absoluto": "0-1",
+      "top5": [
+        [
+          "0-1",
+          11.4
+        ],
+        [
+          "1-1",
+          11.4
+        ],
+        [
+          "0-2",
+          9.8
+        ],
+        [
+          "1-2",
+          9.7
+        ],
+        [
+          "0-0",
+          6.7
+        ]
+      ],
+      "over25": 50.8,
+      "btts": 51.6,
+      "confianza": "Baja",
+      "confianza_pct": 54.2,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "SA|2026-11-01|SS Lazio|Cagliari Calcio",
+      "liga": "SA",
+      "fecha": "2026-11-01",
+      "hora": "14:00",
+      "local": "SS Lazio",
+      "visitante": "Cagliari Calcio",
+      "generada_utc": "2026-10-30T05:21:55.612945+00:00",
+      "fuerza_local": 68.2,
+      "fuerza_visitante": 42.2,
+      "xg_local": 1.611,
+      "xg_visitante": 0.579,
+      "p1": 62.6,
+      "px": 24.3,
+      "p2": 13.1,
+      "resultado_pred": "1",
+      "marcador_top": "1-0",
+      "marcador_prob": 18.0,
+      "marcador_absoluto": "1-0",
+      "top5": [
+        [
+          "1-0",
+          18.0
+        ],
+        [
+          "2-0",
+          14.5
+        ],
+        [
+          "0-0",
+          11.2
+        ],
+        [
+          "1-1",
+          10.4
+        ],
+        [
+          "2-1",
+          8.4
+        ]
+      ],
+      "over25": 37.5,
+      "btts": 35.2,
+      "confianza": "Media",
+      "confianza_pct": 62.6,
       "resultado_real": null,
       "goles_local": null,
       "goles_visitante": null
