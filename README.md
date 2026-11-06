@@ -1,4 +1,4 @@
-[README_historial.md](https://github.com/user-attachments/files/34460736/README_historial.md)
+[README.md](https://github.com/user-attachments/files/34460736/README_historial.md)
 [CAMBIOS_MODELO.md](https://github.com/user-attachments/files/34460807/CAMBIOS_MODELO.md)# Versiones del modelo
 
 Cada predicción de `registro_predicciones.json` se hizo con una versión
