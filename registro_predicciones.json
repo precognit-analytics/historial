@@ -2201,9 +2201,9 @@
       "btts": 40.9,
       "confianza": "Alta",
       "confianza_pct": 73.4,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "2",
+      "goles_local": 2,
+      "goles_visitante": 5
     },
     {
       "id": "PL|2026-10-24|Aston Villa FC|Manchester City FC",
@@ -2446,9 +2446,9 @@
       "btts": 51.6,
       "confianza": "Media",
       "confianza_pct": 59.3,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "2",
+      "goles_local": 0,
+      "goles_visitante": 1
     },
     {
       "id": "SA|2026-10-27|US Sassuolo Calcio|SS Lazio",
@@ -2593,9 +2593,9 @@
       "btts": 43.9,
       "confianza": "Muy Alta",
       "confianza_pct": 77.7,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 1,
+      "goles_visitante": 0
     },
     {
       "id": "PL|2026-10-31|Brentford FC|Nottingham Forest FC",
@@ -2642,9 +2642,9 @@
       "btts": 50.8,
       "confianza": "Baja",
       "confianza_pct": 47.3,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 2,
+      "goles_visitante": 0
     },
     {
       "id": "PL|2026-10-31|AFC Bournemouth|Leeds United FC",
@@ -2691,9 +2691,9 @@
       "btts": 46.2,
       "confianza": "Baja",
       "confianza_pct": 46.3,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 2,
+      "goles_visitante": 0
     },
     {
       "id": "PL|2026-10-31|Tottenham Hotspur FC|Crystal Palace FC",
@@ -2740,9 +2740,9 @@
       "btts": 46.0,
       "confianza": "Baja",
       "confianza_pct": 45.3,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 2,
+      "goles_visitante": 0
     },
     {
       "id": "PL|2026-11-01|Liverpool FC|Arsenal FC",
@@ -2789,9 +2789,9 @@
       "btts": 38.4,
       "confianza": "Baja",
       "confianza_pct": 52.0,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "2",
+      "goles_local": 0,
+      "goles_visitante": 1
     },
     {
       "id": "SA|2026-10-31|Bologna FC 1909|AC Monza",
@@ -2838,9 +2838,9 @@
       "btts": 41.9,
       "confianza": "Baja",
       "confianza_pct": 50.5,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 2,
+      "goles_visitante": 1
     },
     {
       "id": "SA|2026-10-31|AC Milan|FC Internazionale Milano",
@@ -2887,9 +2887,9 @@
       "btts": 51.6,
       "confianza": "Baja",
       "confianza_pct": 54.2,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 3,
+      "goles_visitante": 1
     },
     {
       "id": "SA|2026-11-01|SS Lazio|Cagliari Calcio",
@@ -2936,6 +2936,496 @@
       "btts": 35.2,
       "confianza": "Media",
       "confianza_pct": 62.6,
+      "resultado_real": "1",
+      "goles_local": 2,
+      "goles_visitante": 1
+    },
+    {
+      "id": "SA|2026-11-07|Cagliari Calcio|Frosinone Calcio",
+      "liga": "SA",
+      "fecha": "2026-11-07",
+      "hora": "14:00",
+      "local": "Cagliari Calcio",
+      "visitante": "Frosinone Calcio",
+      "generada_utc": "2026-11-06T03:52:35.669639+00:00",
+      "fuerza_local": 43.1,
+      "fuerza_visitante": 58.4,
+      "xg_local": 1.294,
+      "xg_visitante": 1.855,
+      "p1": 26.7,
+      "px": 22.7,
+      "p2": 50.6,
+      "resultado_pred": "2",
+      "marcador_top": "1-2",
+      "marcador_prob": 9.6,
+      "marcador_absoluto": "1-1",
+      "top5": [
+        [
+          "1-1",
+          10.3
+        ],
+        [
+          "1-2",
+          9.6
+        ],
+        [
+          "0-1",
+          8.0
+        ],
+        [
+          "0-2",
+          7.4
+        ],
+        [
+          "2-1",
+          6.7
+        ]
+      ],
+      "over25": 60.9,
+      "btts": 61.2,
+      "confianza": "Baja",
+      "confianza_pct": 50.6,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "SA|2026-11-07|AS Roma|US Sassuolo Calcio",
+      "liga": "SA",
+      "fecha": "2026-11-07",
+      "hora": "19:45",
+      "local": "AS Roma",
+      "visitante": "US Sassuolo Calcio",
+      "generada_utc": "2026-11-06T03:52:35.669639+00:00",
+      "fuerza_local": 70.1,
+      "fuerza_visitante": 37.2,
+      "xg_local": 3.322,
+      "xg_visitante": 1.249,
+      "p1": 76.9,
+      "px": 12.6,
+      "p2": 10.6,
+      "resultado_pred": "1",
+      "marcador_top": "3-1",
+      "marcador_prob": 8.0,
+      "marcador_absoluto": "3-1",
+      "top5": [
+        [
+          "3-1",
+          8.0
+        ],
+        [
+          "2-1",
+          7.2
+        ],
+        [
+          "4-1",
+          6.6
+        ],
+        [
+          "3-0",
+          6.4
+        ],
+        [
+          "2-0",
+          5.8
+        ]
+      ],
+      "over25": 83.3,
+      "btts": 68.7,
+      "confianza": "Alta",
+      "confianza_pct": 76.9,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "SA|2026-11-08|AC Monza|Atalanta BC",
+      "liga": "SA",
+      "fecha": "2026-11-08",
+      "hora": "14:00",
+      "local": "AC Monza",
+      "visitante": "Atalanta BC",
+      "generada_utc": "2026-11-06T03:52:35.669639+00:00",
+      "fuerza_local": 35.3,
+      "fuerza_visitante": 47.4,
+      "xg_local": 1.902,
+      "xg_visitante": 2.545,
+      "p1": 29.0,
+      "px": 18.8,
+      "p2": 52.2,
+      "resultado_pred": "2",
+      "marcador_top": "1-2",
+      "marcador_prob": 7.2,
+      "marcador_absoluto": "1-2",
+      "top5": [
+        [
+          "1-2",
+          7.2
+        ],
+        [
+          "2-2",
+          6.9
+        ],
+        [
+          "1-3",
+          6.1
+        ],
+        [
+          "2-3",
+          5.8
+        ],
+        [
+          "1-1",
+          5.7
+        ]
+      ],
+      "over25": 82.0,
+      "btts": 78.4,
+      "confianza": "Baja",
+      "confianza_pct": 52.2,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "SA|2026-11-08|Genoa CFC|AC Milan",
+      "liga": "SA",
+      "fecha": "2026-11-08",
+      "hora": "14:00",
+      "local": "Genoa CFC",
+      "visitante": "AC Milan",
+      "generada_utc": "2026-11-06T03:52:35.669639+00:00",
+      "fuerza_local": 45.3,
+      "fuerza_visitante": 63.5,
+      "xg_local": 1.089,
+      "xg_visitante": 1.68,
+      "p1": 24.6,
+      "px": 24.2,
+      "p2": 51.2,
+      "resultado_pred": "2",
+      "marcador_top": "0-1",
+      "marcador_prob": 10.5,
+      "marcador_absoluto": "1-1",
+      "top5": [
+        [
+          "1-1",
+          11.5
+        ],
+        [
+          "0-1",
+          10.5
+        ],
+        [
+          "1-2",
+          9.6
+        ],
+        [
+          "0-2",
+          8.9
+        ],
+        [
+          "1-0",
+          6.8
+        ]
+      ],
+      "over25": 52.3,
+      "btts": 54.0,
+      "confianza": "Baja",
+      "confianza_pct": 51.2,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "SA|2026-11-08|ACF Fiorentina|Juventus FC",
+      "liga": "SA",
+      "fecha": "2026-11-08",
+      "hora": "19:45",
+      "local": "ACF Fiorentina",
+      "visitante": "Juventus FC",
+      "generada_utc": "2026-11-06T03:52:35.669639+00:00",
+      "fuerza_local": 38.8,
+      "fuerza_visitante": 60.7,
+      "xg_local": 1.131,
+      "xg_visitante": 1.945,
+      "p1": 21.8,
+      "px": 21.9,
+      "p2": 56.3,
+      "resultado_pred": "2",
+      "marcador_top": "1-2",
+      "marcador_prob": 9.9,
+      "marcador_absoluto": "1-1",
+      "top5": [
+        [
+          "1-1",
+          10.2
+        ],
+        [
+          "1-2",
+          9.9
+        ],
+        [
+          "0-1",
+          9.0
+        ],
+        [
+          "0-2",
+          8.7
+        ],
+        [
+          "1-3",
+          6.4
+        ]
+      ],
+      "over25": 59.4,
+      "btts": 58.0,
+      "confianza": "Media",
+      "confianza_pct": 56.3,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "PL|2026-11-07|Arsenal FC|Hull City AFC",
+      "liga": "PL",
+      "fecha": "2026-11-07",
+      "hora": "15:00",
+      "local": "Arsenal FC",
+      "visitante": "Hull City AFC",
+      "generada_utc": "2026-11-06T03:53:49.076984+00:00",
+      "fuerza_local": 81.4,
+      "fuerza_visitante": 48.3,
+      "xg_local": 1.554,
+      "xg_visitante": 0.545,
+      "p1": 62.1,
+      "px": 25.1,
+      "p2": 12.8,
+      "resultado_pred": "1",
+      "marcador_top": "1-0",
+      "marcador_prob": 19.0,
+      "marcador_absoluto": "1-0",
+      "top5": [
+        [
+          "1-0",
+          19.0
+        ],
+        [
+          "2-0",
+          14.8
+        ],
+        [
+          "0-0",
+          12.3
+        ],
+        [
+          "1-1",
+          10.4
+        ],
+        [
+          "2-1",
+          8.1
+        ]
+      ],
+      "over25": 35.0,
+      "btts": 33.1,
+      "confianza": "Media",
+      "confianza_pct": 62.1,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "PL|2026-11-07|Nottingham Forest FC|Manchester City FC",
+      "liga": "PL",
+      "fecha": "2026-11-07",
+      "hora": "17:30",
+      "local": "Nottingham Forest FC",
+      "visitante": "Manchester City FC",
+      "generada_utc": "2026-11-06T03:53:49.076984+00:00",
+      "fuerza_local": 35.2,
+      "fuerza_visitante": 73.6,
+      "xg_local": 0.793,
+      "xg_visitante": 2.129,
+      "p1": 12.7,
+      "px": 19.1,
+      "p2": 68.2,
+      "resultado_pred": "2",
+      "marcador_top": "0-2",
+      "marcador_prob": 12.2,
+      "marcador_absoluto": "0-2",
+      "top5": [
+        [
+          "0-2",
+          12.2
+        ],
+        [
+          "0-1",
+          11.5
+        ],
+        [
+          "1-2",
+          9.7
+        ],
+        [
+          "1-1",
+          9.1
+        ],
+        [
+          "0-3",
+          8.7
+        ]
+      ],
+      "over25": 55.9,
+      "btts": 48.2,
+      "confianza": "Alta",
+      "confianza_pct": 68.2,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "PL|2026-11-08|Sunderland AFC|Chelsea FC",
+      "liga": "PL",
+      "fecha": "2026-11-08",
+      "hora": "14:00",
+      "local": "Sunderland AFC",
+      "visitante": "Chelsea FC",
+      "generada_utc": "2026-11-06T03:53:49.076984+00:00",
+      "fuerza_local": 32.3,
+      "fuerza_visitante": 56.0,
+      "xg_local": 1.209,
+      "xg_visitante": 2.2,
+      "p1": 20.2,
+      "px": 20.0,
+      "p2": 59.8,
+      "resultado_pred": "2",
+      "marcador_top": "1-2",
+      "marcador_prob": 9.7,
+      "marcador_absoluto": "1-2",
+      "top5": [
+        [
+          "1-2",
+          9.7
+        ],
+        [
+          "1-1",
+          8.8
+        ],
+        [
+          "0-2",
+          8.0
+        ],
+        [
+          "0-1",
+          7.3
+        ],
+        [
+          "1-3",
+          7.1
+        ]
+      ],
+      "over25": 66.2,
+      "btts": 62.4,
+      "confianza": "Media",
+      "confianza_pct": 59.8,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "PL|2026-11-08|Crystal Palace FC|Liverpool FC",
+      "liga": "PL",
+      "fecha": "2026-11-08",
+      "hora": "14:00",
+      "local": "Crystal Palace FC",
+      "visitante": "Liverpool FC",
+      "generada_utc": "2026-11-06T03:53:49.076984+00:00",
+      "fuerza_local": 32.5,
+      "fuerza_visitante": 57.5,
+      "xg_local": 1.047,
+      "xg_visitante": 1.961,
+      "p1": 19.7,
+      "px": 21.6,
+      "p2": 58.6,
+      "resultado_pred": "2",
+      "marcador_top": "1-2",
+      "marcador_prob": 9.9,
+      "marcador_absoluto": "1-1",
+      "top5": [
+        [
+          "1-1",
+          10.1
+        ],
+        [
+          "1-2",
+          9.9
+        ],
+        [
+          "0-1",
+          9.7
+        ],
+        [
+          "0-2",
+          9.5
+        ],
+        [
+          "1-3",
+          6.5
+        ]
+      ],
+      "over25": 57.8,
+      "btts": 55.8,
+      "confianza": "Media",
+      "confianza_pct": 58.6,
+      "resultado_real": null,
+      "goles_local": null,
+      "goles_visitante": null
+    },
+    {
+      "id": "PL|2026-11-08|Brighton & Hove Albion FC|Brentford FC",
+      "liga": "PL",
+      "fecha": "2026-11-08",
+      "hora": "14:00",
+      "local": "Brighton & Hove Albion FC",
+      "visitante": "Brentford FC",
+      "generada_utc": "2026-11-06T03:53:49.076984+00:00",
+      "fuerza_local": 68.1,
+      "fuerza_visitante": 56.7,
+      "xg_local": 1.836,
+      "xg_visitante": 1.248,
+      "p1": 51.2,
+      "px": 22.8,
+      "p2": 26.0,
+      "resultado_pred": "1",
+      "marcador_top": "2-1",
+      "marcador_prob": 9.6,
+      "marcador_absoluto": "1-1",
+      "top5": [
+        [
+          "1-1",
+          10.5
+        ],
+        [
+          "2-1",
+          9.6
+        ],
+        [
+          "1-0",
+          8.4
+        ],
+        [
+          "2-0",
+          7.7
+        ],
+        [
+          "1-2",
+          6.5
+        ]
+      ],
+      "over25": 59.5,
+      "btts": 59.9,
+      "confianza": "Baja",
+      "confianza_pct": 51.2,
       "resultado_real": null,
       "goles_local": null,
       "goles_visitante": null
