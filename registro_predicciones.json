@@ -2985,9 +2985,9 @@
       "btts": 61.2,
       "confianza": "Baja",
       "confianza_pct": 50.6,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 1,
+      "goles_visitante": 0
     },
     {
       "id": "SA|2026-11-07|AS Roma|US Sassuolo Calcio",
@@ -3034,9 +3034,9 @@
       "btts": 68.7,
       "confianza": "Alta",
       "confianza_pct": 76.9,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 3,
+      "goles_visitante": 0
     },
     {
       "id": "SA|2026-11-08|AC Monza|Atalanta BC",
@@ -3083,9 +3083,9 @@
       "btts": 78.4,
       "confianza": "Baja",
       "confianza_pct": 52.2,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "2",
+      "goles_local": 0,
+      "goles_visitante": 1
     },
     {
       "id": "SA|2026-11-08|Genoa CFC|AC Milan",
@@ -3132,9 +3132,9 @@
       "btts": 54.0,
       "confianza": "Baja",
       "confianza_pct": 51.2,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "2",
+      "goles_local": 1,
+      "goles_visitante": 2
     },
     {
       "id": "SA|2026-11-08|ACF Fiorentina|Juventus FC",
@@ -3181,9 +3181,9 @@
       "btts": 58.0,
       "confianza": "Media",
       "confianza_pct": 56.3,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "X",
+      "goles_local": 2,
+      "goles_visitante": 2
     },
     {
       "id": "PL|2026-11-07|Arsenal FC|Hull City AFC",
@@ -3230,9 +3230,9 @@
       "btts": 33.1,
       "confianza": "Media",
       "confianza_pct": 62.1,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 1,
+      "goles_visitante": 0
     },
     {
       "id": "PL|2026-11-07|Nottingham Forest FC|Manchester City FC",
@@ -3279,9 +3279,9 @@
       "btts": 48.2,
       "confianza": "Alta",
       "confianza_pct": 68.2,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 3,
+      "goles_visitante": 1
     },
     {
       "id": "PL|2026-11-08|Sunderland AFC|Chelsea FC",
@@ -3328,9 +3328,9 @@
       "btts": 62.4,
       "confianza": "Media",
       "confianza_pct": 59.8,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 1,
+      "goles_visitante": 0
     },
     {
       "id": "PL|2026-11-08|Crystal Palace FC|Liverpool FC",
@@ -3377,9 +3377,9 @@
       "btts": 55.8,
       "confianza": "Media",
       "confianza_pct": 58.6,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "2",
+      "goles_local": 1,
+      "goles_visitante": 3
     },
     {
       "id": "PL|2026-11-08|Brighton & Hove Albion FC|Brentford FC",
@@ -3426,9 +3426,9 @@
       "btts": 59.9,
       "confianza": "Baja",
       "confianza_pct": 51.2,
-      "resultado_real": null,
-      "goles_local": null,
-      "goles_visitante": null
+      "resultado_real": "1",
+      "goles_local": 2,
+      "goles_visitante": 0
     }
   ],
   "creado": "2026-09-11T04:23:14.846381+00:00"
